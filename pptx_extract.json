@@ -1,0 +1,1709 @@
+[
+  {
+    "slide_num": 1,
+    "shapes": [
+      {
+        "name": "AutoShape 36",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Welcome\nto Session on\nAI Creator Camp for Kids",
+        "paragraphs": [
+          "Welcome",
+          "to Session on",
+          "AI Creator Camp for Kids"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 2,
+    "shapes": [
+      {
+        "name": "Slide Number Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "2",
+        "paragraphs": [
+          "2"
+        ]
+      },
+      {
+        "name": "AutoShape 36",
+        "type": "AUTO_SHAPE (1)",
+        "text": "AI Creator Camp for Kids\n\n\n\n",
+        "paragraphs": [
+          "AI Creator Camp for Kids"
+        ]
+      },
+      {
+        "name": "Rectangle 5",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Conducted by:\nMr. Amey Hegde\n\nMotivational Speaker, Corporate Trainer & Internationally Published Author",
+        "paragraphs": [
+          "Conducted by:",
+          "Mr. Amey Hegde",
+          "Motivational Speaker, Corporate Trainer & Internationally Published Author"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 3,
+    "shapes": [
+      {
+        "name": "Slide Number Placeholder 5",
+        "type": "PLACEHOLDER (14)",
+        "text": "3",
+        "paragraphs": [
+          "3"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "TEXT_BOX (17)",
+        "text": " Have you used chatgpt?\n\n Which other AI tools have you used?\n",
+        "paragraphs": [
+          "Have you used chatgpt?",
+          "Which other AI tools have you used?"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 4,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Learning Objectives",
+        "paragraphs": [
+          "Learning Objectives"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": " Understand why AI matters\n\n Use AI to write essays, homework assignments etc.\n\n Write better prompts for better results\n\n Use AI for research, idea generation & summarizing docs \n\n Create videos and songs using AI\n\n Create games and apps using AI\n\n Use AI safely by protecting data and checking accuracy",
+        "paragraphs": [
+          "Understand why AI matters",
+          "Use AI to write essays, homework assignments etc.",
+          "Write better prompts for better results",
+          "Use AI for research, idea generation & summarizing docs",
+          "Create videos and songs using AI",
+          "Create games and apps using AI",
+          "Use AI safely by protecting data and checking accuracy"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 5,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Why AI matters",
+        "paragraphs": [
+          "Why AI matters"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 6,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Why AI matters",
+        "paragraphs": [
+          "Why AI matters"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Saves time and helps you do things faster \nHelps create videos, comics, songs, games \nImproves stories, messages, presentations \nHelps in making projects & school work easier \nHelps you understand & learn new things fast\nHelps you think of creative ideas \nTurns your imagination into real creations",
+        "paragraphs": [
+          "Saves time and helps you do things faster",
+          "Helps create videos, comics, songs, games",
+          "Improves stories, messages, presentations",
+          "Helps in making projects & school work easier",
+          "Helps you understand & learn new things fast",
+          "Helps you think of creative ideas",
+          "Turns your imagination into real creations"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 10,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "What is Generative AI?",
+        "paragraphs": [
+          "What is Generative AI?"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "Generative AI models create new content like \nText\nDocuments\nCode\nImages \nVideo \nVoice & \nMusic \nbased on learned patterns from existing data",
+        "paragraphs": [
+          "Generative AI models create new content like",
+          "Text",
+          "Documents",
+          "Code",
+          "Images",
+          "Video",
+          "Voice &",
+          "Music",
+          "based on learned patterns from existing data"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 11,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "LLM – Large Language Model",
+        "paragraphs": [
+          "LLM – Large Language Model"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "LLM is a neural network that is trained on massive amounts of text data to learn patterns in how language works",
+        "paragraphs": [
+          "LLM is a neural network that is trained on massive amounts of text data to learn patterns in how language works"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 12,
+    "shapes": [
+      {
+        "name": "Rectangle 1",
+        "type": "AUTO_SHAPE (1)",
+        "text": "https://projector.tensorflow.org/",
+        "paragraphs": [
+          "https://projector.tensorflow.org/"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 13,
+    "shapes": [
+      {
+        "name": "Rectangle 1",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Chatgpt.com",
+        "paragraphs": [
+          "Chatgpt.com"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 14,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "\n\nUse Case 1: \nAI for Writing",
+        "paragraphs": [
+          "Use Case 1:",
+          "AI for Writing"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 15,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "I  am a <_ year girl / boy from Goa/ Bangalore>\nWhere can AI help me in writing\nKeep it short ",
+        "paragraphs": [
+          "I  am a <_ year girl / boy from Goa/ Bangalore>",
+          "Where can AI help me in writing",
+          "Keep it short"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 16,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Where AI can help you for writing",
+        "paragraphs": [
+          "Where AI can help you for writing"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Ideas: Helps you start when you don’t know what to write \nStories: Creates fun stories, plots, and characters \nSchool work: Helps with essays, answers, and projects \nGrammar: Fixes spelling and sentence mistakes \nCreative writing: Poems, comics, scripts, and speeches \nImproving writing: Makes your writing clearer and more interesting \nLearning: Explains new words and helps you write better over time",
+        "paragraphs": [
+          "Ideas: Helps you start when you don’t know what to write",
+          "Stories: Creates fun stories, plots, and characters",
+          "School work: Helps with essays, answers, and projects",
+          "Grammar: Fixes spelling and sentence mistakes",
+          "Creative writing: Poems, comics, scripts, and speeches",
+          "Improving writing: Makes your writing clearer and more interesting",
+          "Learning: Explains new words and helps you write better over time"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 17,
+    "shapes": [
+      {
+        "name": "TextBox 2",
+        "type": "TEXT_BOX (17)",
+        "text": "https://ameyheg.github.io/promptsaitrainingforhods/",
+        "paragraphs": [
+          "https://ameyheg.github.io/promptsaitrainingforhods/"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 18,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Use Case 1: AI for Writing",
+        "paragraphs": [
+          "Use Case 1: AI for Writing"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Ideas\u000b“Give me 5 fun ideas to write about for a 12-year-old girl who likes ___.”\nStories\u000b“Write a short adventure story about a girl from Goa who discovers a secret power. Keep it exciting and age-appropriate.”\nSchool work\u000b“Help me write a neat 150-word answer on ___ for class 7. Keep it simple and easy to understand.”",
+        "paragraphs": [
+          "Ideas\u000b“Give me 5 fun ideas to write about for a 12-year-old girl who likes ___.”",
+          "Stories\u000b“Write a short adventure story about a girl from Goa who discovers a secret power. Keep it exciting and age-appropriate.”",
+          "School work\u000b“Help me write a neat 150-word answer on ___ for class 7. Keep it simple and easy to understand.”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 19,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Use Case 1: AI for Writing",
+        "paragraphs": [
+          "Use Case 1: AI for Writing"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Grammar\u000b“Check this paragraph and correct mistakes. Also explain what I did wrong in easy words: ___”\nCreative writing\u000b“Write a poem about the beach in Goa with simple words and nice rhymes.”\nImproving writing\u000b“Make this paragraph more interesting and better, but keep my style:”\nLearning\u000b“Explain the word ___ with meaning, example, and how I can use it in my writing.”",
+        "paragraphs": [
+          "Grammar\u000b“Check this paragraph and correct mistakes. Also explain what I did wrong in easy words: ___”",
+          "Creative writing\u000b“Write a poem about the beach in Goa with simple words and nice rhymes.”",
+          "Improving writing\u000b“Make this paragraph more interesting and better, but keep my style:”",
+          "Learning\u000b“Explain the word ___ with meaning, example, and how I can use it in my writing.”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 20,
+    "shapes": [
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Convert it into word file\nConvert it into pdf",
+        "paragraphs": [
+          "Convert it into word file",
+          "Convert it into pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 21,
+    "shapes": [
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "\nTool demo: Copilot.microsoft.com / ChatGPT.com / Gemini.google.com / Grok.com / Claude.ai",
+        "paragraphs": [
+          "Tool demo: Copilot.microsoft.com / ChatGPT.com / Gemini.google.com / Grok.com / Claude.ai"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 22,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Use Case 1: AI for Writing",
+        "paragraphs": [
+          "Use Case 1: AI for Writing"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "How to write prompts for better results\n",
+        "paragraphs": [
+          "How to write prompts for better results"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 23,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Prompts\u000b\u000b",
+        "paragraphs": [
+          "Prompts"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "Context is king!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5 min video on Mastering Prompts: \nhttps://academy.openai.com/home/videos/mastering-prompts-the-key-to-getting-what-you-need-from-chatgptmastering-prompts-the-key-to-getting-what-you-need-from-chatgpt-2025-03-20\n8 min video on Advanced Prompt engineering: \nhttps://academy.openai.com/home/videos/advanced-prompt-engineering-2025-02-13\n\n\n",
+        "paragraphs": [
+          "Context is king!",
+          "5 min video on Mastering Prompts:",
+          "https://academy.openai.com/home/videos/mastering-prompts-the-key-to-getting-what-you-need-from-chatgptmastering-prompts-the-key-to-getting-what-you-need-from-chatgpt-2025-03-20",
+          "8 min video on Advanced Prompt engineering:",
+          "https://academy.openai.com/home/videos/advanced-prompt-engineering-2025-02-13"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 24,
+    "shapes": [
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "Example of a good prompt with role",
+        "paragraphs": [
+          "Example of a good prompt with role"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 25,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "How to Write a Great Prompt",
+        "paragraphs": [
+          "How to Write a Great Prompt"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "1. Role\u000bTell AI who it should be\u000bExample: “Act like a fun story writer” or “Be my English teacher”\n\n2. Context\u000bExplain your situation\u000bExample: “I am a 12-year-old girl from Goa writing a school essay”\n\n3. Task\u000bSay clearly what you want\u000bExample: “Write a 120-word paragraph about my favorite hobby”",
+        "paragraphs": [
+          "1. Role\u000bTell AI who it should be\u000bExample: “Act like a fun story writer” or “Be my English teacher”",
+          "2. Context\u000bExplain your situation\u000bExample: “I am a 12-year-old girl from Goa writing a school essay”",
+          "3. Task\u000bSay clearly what you want\u000bExample: “Write a 120-word paragraph about my favorite hobby”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 26,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Using AI to improve prompts",
+        "paragraphs": [
+          "Using AI to improve prompts"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "Custom GPTs\nhttps://chatgpt.com/g/g-684fb793368c819194afae90bab19026-prompt-maker\n\n",
+        "paragraphs": [
+          "Custom GPTs",
+          "https://chatgpt.com/g/g-684fb793368c819194afae90bab19026-prompt-maker"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 27,
+    "shapes": [
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "Original prompt. \nI am a freelance corporate behavioral trainer. write an email convincing my potential client to hire my services. \n\nImproved prompt\nImproved Prompt:\u000bYou are a professional copywriter experienced in B2B communication. \nWrite a concise, persuasive cold email for a freelance corporate behavioral trainer trying to secure a contract with a potential client. \nThe email should:\nHighlight the trainer’s unique value (e.g., customized programs, measurable impact, experience across industries)\nInclude a compelling subject line\nFocus on the client’s possible needs (e.g., team performance, leadership development, communication skills)\nEnd with a clear and professional call to action\nMaintain a warm but professional tone suitable for corporate decision-makers",
+        "paragraphs": [
+          "Original prompt.",
+          "I am a freelance corporate behavioral trainer. write an email convincing my potential client to hire my services.",
+          "Improved prompt",
+          "Improved Prompt:\u000bYou are a professional copywriter experienced in B2B communication.",
+          "Write a concise, persuasive cold email for a freelance corporate behavioral trainer trying to secure a contract with a potential client.",
+          "The email should:",
+          "Highlight the trainer’s unique value (e.g., customized programs, measurable impact, experience across industries)",
+          "Include a compelling subject line",
+          "Focus on the client’s possible needs (e.g., team performance, leadership development, communication skills)",
+          "End with a clear and professional call to action",
+          "Maintain a warm but professional tone suitable for corporate decision-makers"
+        ]
+      },
+      {
+        "name": "TextBox 5",
+        "type": "TEXT_BOX (17)",
+        "text": "<- Role",
+        "paragraphs": [
+          "<- Role"
+        ]
+      },
+      {
+        "name": "TextBox 6",
+        "type": "TEXT_BOX (17)",
+        "text": "<- Task",
+        "paragraphs": [
+          "<- Task"
+        ]
+      },
+      {
+        "name": "TextBox 7",
+        "type": "TEXT_BOX (17)",
+        "text": "<- Instructions (with examples)",
+        "paragraphs": [
+          "<- Instructions (with examples)"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 28,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "\nUse Case 2: \nAI for Research Support & Document Summarizing\n",
+        "paragraphs": [
+          "Use Case 2:",
+          "AI for Research Support & Document Summarizing"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 29,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Use Case 2: Research Help & Summarizing",
+        "paragraphs": [
+          "Use Case 2: Research Help & Summarizing"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "\nAI can help with:\n Understand long chapters or lessons \n Find important points quickly \n Compare topics \n Make difficult things easy",
+        "paragraphs": [
+          "AI can help with:",
+          "Understand long chapters or lessons",
+          "Find important points quickly",
+          "Compare topics",
+          "Make difficult things easy"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 30,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Demo: AI helps summarize complex info.",
+        "paragraphs": [
+          "Demo: AI helps summarize complex info."
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "Upload a PDF or paste text and ask:\n1. Quick Summary (School Chapters)\u000b“Summarise this lesson in 5 simple points that a 12-year-old can understand: ___”\n2. Homework Help (Long Answers)\u000b“Read this paragraph and give me the most important points for my answer: ___”\n3. Compare Topics\u000b“Explain the difference between ___ and ___ in simple words with examples”\n4. Simplify Difficult Text\u000b“Explain this in very easy language like you are teaching a student: ___”\n5. Notes Making\u000b“Turn this chapter into short notes I can revise before exams: ___”",
+        "paragraphs": [
+          "Upload a PDF or paste text and ask:",
+          "1. Quick Summary (School Chapters)\u000b“Summarise this lesson in 5 simple points that a 12-year-old can understand: ___”",
+          "2. Homework Help (Long Answers)\u000b“Read this paragraph and give me the most important points for my answer: ___”",
+          "3. Compare Topics\u000b“Explain the difference between ___ and ___ in simple words with examples”",
+          "4. Simplify Difficult Text\u000b“Explain this in very easy language like you are teaching a student: ___”",
+          "5. Notes Making\u000b“Turn this chapter into short notes I can revise before exams: ___”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 31,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Demo: AI helps summarize complex info.",
+        "paragraphs": [
+          "Demo: AI helps summarize complex info."
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "Simple Demo Idea for Class:\u000bPaste a long paragraph from a textbook and ask:\u000b“Make this easy to understand and give me 5 key points”\n",
+        "paragraphs": [
+          "Simple Demo Idea for Class:\u000bPaste a long paragraph from a textbook and ask:\u000b“Make this easy to understand and give me 5 key points”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 32,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Demo: AI helps compare options and generate ideas",
+        "paragraphs": [
+          "Demo: AI helps compare options and generate ideas"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "1. Compare Options (School Use)\u000b“Compare ___ and ___ and tell me the differences, pros, and which is better for a student”\nExamples:\n“Compare online learning vs classroom learning”\n“Compare two sports like football and badminton”\n\n2. Generate Ideas (Creative Thinking)\u000b“Give me 10 fun ideas for ___ suitable for a 12-year-old”\nExamples:\n“Give me 10 ideas for a school project”\n“Give me 10 ways to make my class more fun”\n“Give me 10 ideas for a story set in Goa”",
+        "paragraphs": [
+          "1. Compare Options (School Use)\u000b“Compare ___ and ___ and tell me the differences, pros, and which is better for a student”",
+          "Examples:",
+          "“Compare online learning vs classroom learning”",
+          "“Compare two sports like football and badminton”",
+          "2. Generate Ideas (Creative Thinking)\u000b“Give me 10 fun ideas for ___ suitable for a 12-year-old”",
+          "Examples:",
+          "“Give me 10 ideas for a school project”",
+          "“Give me 10 ways to make my class more fun”",
+          "“Give me 10 ideas for a story set in Goa”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 33,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Demo: AI helps compare options and generate ideas",
+        "paragraphs": [
+          "Demo: AI helps compare options and generate ideas"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "3. Problem Solving\u000b“Give me simple ideas to solve this problem: ___”\nExamples:\n“How to manage homework better”\n“How to improve my writing skills”",
+        "paragraphs": [
+          "3. Problem Solving\u000b“Give me simple ideas to solve this problem: ___”",
+          "Examples:",
+          "“How to manage homework better”",
+          "“How to improve my writing skills”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 34,
+    "shapes": [
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "Research using thinking (reasoning) & deep research features of \nchatgpt.com\ngemini.google.com\nperplexity.ai\n\nTool demo: Chatgpt5.5 thinking / Deep Research / Perplexity for verified answers with sources\n\n",
+        "paragraphs": [
+          "Research using thinking (reasoning) & deep research features of",
+          "chatgpt.com",
+          "gemini.google.com",
+          "perplexity.ai",
+          "Tool demo: Chatgpt5.5 thinking / Deep Research / Perplexity for verified answers with sources"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 35,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Deep Research",
+        "paragraphs": [
+          "Deep Research"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "1. Latest Findings (Simple Summary)\nPrompt:\u000b“Summarise the latest information about ___ in 5–7 simple points that a student can understand”\nExamples:\n“Summarise the latest trends in AI”\n“Summarise new discoveries in space science”\n\n2. Compare Information (Find Similarities & Differences)\nPrompt:\u000b“Compare different ideas about ___ and tell me where they are similar and where they are different in simple words”\nExamples:\n“Compare online learning and classroom learning”\n“Compare two science topics or inventions”",
+        "paragraphs": [
+          "1. Latest Findings (Simple Summary)",
+          "Prompt:\u000b“Summarise the latest information about ___ in 5–7 simple points that a student can understand”",
+          "Examples:",
+          "“Summarise the latest trends in AI”",
+          "“Summarise new discoveries in space science”",
+          "2. Compare Information (Find Similarities & Differences)",
+          "Prompt:\u000b“Compare different ideas about ___ and tell me where they are similar and where they are different in simple words”",
+          "Examples:",
+          "“Compare online learning and classroom learning”",
+          "“Compare two science topics or inventions”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 36,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Deep Research",
+        "paragraphs": [
+          "Deep Research"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "3. Turn Learning into Action (Very Powerful)\nPrompt:\u000b“Turn this information about ___ into simple steps I can follow in real life or school”\nExamples:\n“Turn tips on time management into steps I can follow daily”\n“Turn study techniques into a daily routine”",
+        "paragraphs": [
+          "3. Turn Learning into Action (Very Powerful)",
+          "Prompt:\u000b“Turn this information about ___ into simple steps I can follow in real life or school”",
+          "Examples:",
+          "“Turn tips on time management into steps I can follow daily”",
+          "“Turn study techniques into a daily routine”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 37,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "\n\nUse Case 3: \nAI for Presentations & Videos",
+        "paragraphs": [
+          "Use Case 3:",
+          "AI for Presentations & Videos"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 38,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": " Use Case 3: AI for Presentations ",
+        "paragraphs": [
+          "Use Case 3: AI for Presentations"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "How to use AI for making presentations\nTool demo: Chatgpt (with Canva App) / Claude.ai / Gamma \nLive example: Turn text into a professional-looking powerpoint presentation in minutes\n\nQuick workflow (3 steps)\n-Ask AI for a slide outline and speaker notes\n-Use Claude.ai or Canva app in chatgpt.com or paste output into Gamma and choose a template\n-Edit local examples, add organisation logo, and export\n",
+        "paragraphs": [
+          "How to use AI for making presentations",
+          "Tool demo: Chatgpt (with Canva App) / Claude.ai / Gamma",
+          "Live example: Turn text into a professional-looking powerpoint presentation in minutes",
+          "Quick workflow (3 steps)",
+          "-Ask AI for a slide outline and speaker notes",
+          "-Use Claude.ai or Canva app in chatgpt.com or paste output into Gamma and choose a template",
+          "-Edit local examples, add organisation logo, and export"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 39,
+    "shapes": [
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Gamma.app",
+        "paragraphs": [
+          "Gamma.app"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 40,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": " Use Case 3: AI for Presentations ",
+        "paragraphs": [
+          "Use Case 3: AI for Presentations"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Demo 1 – Create Slides from a Topic\nPrompt:\u000b“Create a 5-slide presentation on ___ for a school student. For each slide give a title and 3 simple bullet points”\nExamples:\n“Create a 5-slide presentation on road safety”\n“Create a 5-slide presentation on saving the environment”",
+        "paragraphs": [
+          "Demo 1 – Create Slides from a Topic",
+          "Prompt:\u000b“Create a 5-slide presentation on ___ for a school student. For each slide give a title and 3 simple bullet points”",
+          "Examples:",
+          "“Create a 5-slide presentation on road safety”",
+          "“Create a 5-slide presentation on saving the environment”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 41,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": " Use Case 3: AI for Presentations ",
+        "paragraphs": [
+          "Use Case 3: AI for Presentations"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Demo 2 – Turn Text into Slides\nPrompt:\u000b“Convert this paragraph into 4–5 slides. Give each slide a title and 3 simple points: ___”\n👉 Great for turning textbook answers into presentations\n\nDemo 3 – School Topic Presentation\nPrompt:\u000b“Create a 5-slide presentation on ___ with simple language suitable for class 6–8 students”\nExamples: \n“Healthy habits for students”, \n“My favorite festival”",
+        "paragraphs": [
+          "Demo 2 – Turn Text into Slides",
+          "Prompt:\u000b“Convert this paragraph into 4–5 slides. Give each slide a title and 3 simple points: ___”",
+          "👉 Great for turning textbook answers into presentations",
+          "Demo 3 – School Topic Presentation",
+          "Prompt:\u000b“Create a 5-slide presentation on ___ with simple language suitable for class 6–8 students”",
+          "Examples:",
+          "“Healthy habits for students”,",
+          "“My favorite festival”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 42,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "How to make ppt using claude.ai/ chatgpt.com & canva / gamma.app",
+        "paragraphs": [
+          "How to make ppt using claude.ai/ chatgpt.com & canva / gamma.app"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 43,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Linkedin Carousel using Claude",
+        "paragraphs": [
+          "Linkedin Carousel using Claude"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "AI for Coding to create custom apps\nFree plan of Claude.ai (Sonnet 4.6 extended)\n\nIDEs\nCursor\nAntigravity (Google)\nClaude Code (Anthropic)\nCodex (OpenAI)\n\nAgents that can do work in real world\nClaude Cowork\nManus Computer\nPerplexity Computer\nChatgpt Agent",
+        "paragraphs": [
+          "AI for Coding to create custom apps",
+          "Free plan of Claude.ai (Sonnet 4.6 extended)",
+          "IDEs",
+          "Cursor",
+          "Antigravity (Google)",
+          "Claude Code (Anthropic)",
+          "Codex (OpenAI)",
+          "Agents that can do work in real world",
+          "Claude Cowork",
+          "Manus Computer",
+          "Perplexity Computer",
+          "Chatgpt Agent"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 44,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Making Videos using AI\nveo3.1  (gemini.google.com) - 8 seconds\ninvideo.io  - 1-10 minutes\napp.heygen.com/agent  - 1-3 minutes\npicstory.ai\n\nImage Generation:\nChatgpt, Gemini.google.com (nano banana 2)\n\nAI can be used to create videos for: \nStories, Short reels, Funny or creative videos \n⚡ Demo Prompt \n“Create a 1-minute fun video script where 5 kids in Goa discover a secret power. Include scenes, dialogues, and a twist ending.”\n\nMusic: Suno.com \n\n",
+        "paragraphs": [
+          "Making Videos using AI",
+          "veo3.1  (gemini.google.com) - 8 seconds",
+          "invideo.io  - 1-10 minutes",
+          "app.heygen.com/agent  - 1-3 minutes",
+          "picstory.ai",
+          "Image Generation:",
+          "Chatgpt, Gemini.google.com (nano banana 2)",
+          "AI can be used to create videos for:",
+          "Stories, Short reels, Funny or creative videos",
+          "⚡ Demo Prompt",
+          "“Create a 1-minute fun video script where 5 kids in Goa discover a secret power. Include scenes, dialogues, and a twist ending.”",
+          "Music: Suno.com"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 45,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Reya: A Minecraft warrior skating through pixel world\nSaily: A Disney princess reading in an enchanted library\nMinty: Hermione casting spells at Hogwarts\nArnav: Iron Man building a Lego Avengers tower\nDaksh: Tintin & Snowy discovering a hidden temple",
+        "paragraphs": [
+          "Reya: A Minecraft warrior skating through pixel world",
+          "Saily: A Disney princess reading in an enchanted library",
+          "Minty: Hermione casting spells at Hogwarts",
+          "Arnav: Iron Man building a Lego Avengers tower",
+          "Daksh: Tintin & Snowy discovering a hidden temple"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 46,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Activity: “Create Your Own Mini Movie with AI”\n\n⚡ Step 1 – Choose Their Theme (based on interests)\nMinecraft Adventure (Reya) \nSports Champion Story (Daksh / Saily) \nMagic World Story (Minty – inspired by Harry Potter) \nSuperhero Mission (Arnav – inspired by The Avengers) \nReal-life Business Story (Arti – “Fashion shop becomes famous!”)",
+        "paragraphs": [
+          "Activity: “Create Your Own Mini Movie with AI”",
+          "⚡ Step 1 – Choose Their Theme (based on interests)",
+          "Minecraft Adventure (Reya)",
+          "Sports Champion Story (Daksh / Saily)",
+          "Magic World Story (Minty – inspired by Harry Potter)",
+          "Superhero Mission (Arnav – inspired by The Avengers)",
+          "Real-life Business Story (Arti – “Fashion shop becomes famous!”)"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 47,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Step 2 – Power Prompt\nmaster prompt:\n“Create a 1-minute fun video script for kids where the main characters are Reya, Saily, Minty, Arnav, and Daksh.\u000bInclude their interests like Minecraft, badminton, Harry Potter-style magic, superheroes, and karate.\u000bMake it exciting with scenes, dialogues, and a twist ending.",
+        "paragraphs": [
+          "Step 2 – Power Prompt",
+          "master prompt:",
+          "“Create a 1-minute fun video script for kids where the main characters are Reya, Saily, Minty, Arnav, and Daksh.\u000bInclude their interests like Minecraft, badminton, Harry Potter-style magic, superheroes, and karate.\u000bMake it exciting with scenes, dialogues, and a twist ending."
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 48,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Step 3 – Make It Even Cooler\nEach of you can upgrade it:\n“Add a villain” \n“Give each character a special power” \n“Make it funny” \n“Add a Goa setting (beach, school, etc.)”",
+        "paragraphs": [
+          "Step 3 – Make It Even Cooler",
+          "Each of you can upgrade it:",
+          "“Add a villain”",
+          "“Give each character a special power”",
+          "“Make it funny”",
+          "“Add a Goa setting (beach, school, etc.)”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 49,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Step 4 – Add Music\nUse Suno\nPrompt:\u000b“Create energetic background music for a fun kids adventure video”\n\nBonus Challenge (for Arti + older kids)\n“Turn this into a short Instagram reel idea with captions and scenes”\n\nFinal Demo Idea (Group Activity)\nSplit into 2 teams:\nTeam 1: Superhero + Magic \nTeam 2: Sports + Real Life",
+        "paragraphs": [
+          "Step 4 – Add Music",
+          "Use Suno",
+          "Prompt:\u000b“Create energetic background music for a fun kids adventure video”",
+          "Bonus Challenge (for Arti + older kids)",
+          "“Turn this into a short Instagram reel idea with captions and scenes”",
+          "Final Demo Idea (Group Activity)",
+          "Split into 2 teams:",
+          "Team 1: Superhero + Magic",
+          "Team 2: Sports + Real Life"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 52,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "How to make videos using invideo.io",
+        "paragraphs": [
+          "How to make videos using invideo.io"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 53,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": " Use Case: Create Your Own Comic Book with AI",
+        "paragraphs": [
+          "Use Case: Create Your Own Comic Book with AI"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "Step 1 – Choose Their Style (based on interests)\nMinecraft-style world (Reya)\nMagic + fantasy (Minty – Harry Potter vibe)\nSports hero story (Daksh / Saily)\nSuperhero action (Arnav – The Avengers vibe)\nReal-life hero story (Arti – business + problem solving)\n\nStep 2 – Super Comic Prompt\n“Create a 6-panel comic book story for kids with characters Reya, Saily, Minty, Arnav, and Daksh.\u000bEach character should have a unique power based on their interests.\u000bInclude dialogues, a villain, and a fun twist ending.”",
+        "paragraphs": [
+          "Step 1 – Choose Their Style (based on interests)",
+          "Minecraft-style world (Reya)",
+          "Magic + fantasy (Minty – Harry Potter vibe)",
+          "Sports hero story (Daksh / Saily)",
+          "Superhero action (Arnav – The Avengers vibe)",
+          "Real-life hero story (Arti – business + problem solving)",
+          "Step 2 – Super Comic Prompt",
+          "“Create a 6-panel comic book story for kids with characters Reya, Saily, Minty, Arnav, and Daksh.\u000bEach character should have a unique power based on their interests.\u000bInclude dialogues, a villain, and a fun twist ending.”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 54,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Use Case: Create Your Own Comic Book with AI",
+        "paragraphs": [
+          "Use Case: Create Your Own Comic Book with AI"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "Step 3 – Make It Personal\nmodify:\n“Make Reya’s power related to Minecraft”\n“Give Arnav an Avengers-style suit”\n“Add a badminton championship battle”\n“Add a magical spell scene”\n“Make the villain funny instead of scary”\nStep 4 – Turn into Visual Comic\nPrompt:\u000b“Convert this story into comic panels with scene descriptions and dialogues for each panel”\nBonus Fun Twist\n“Turn this into a funny comic where the villain keeps failing”",
+        "paragraphs": [
+          "Step 3 – Make It Personal",
+          "modify:",
+          "“Make Reya’s power related to Minecraft”",
+          "“Give Arnav an Avengers-style suit”",
+          "“Add a badminton championship battle”",
+          "“Add a magical spell scene”",
+          "“Make the villain funny instead of scary”",
+          "Step 4 – Turn into Visual Comic",
+          "Prompt:\u000b“Convert this story into comic panels with scene descriptions and dialogues for each panel”",
+          "Bonus Fun Twist",
+          "“Turn this into a funny comic where the villain keeps failing”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 55,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Use Case: Create Your Own Comic Book with AI",
+        "paragraphs": [
+          "Use Case: Create Your Own Comic Book with AI"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "For Arti (Advanced)\n“Turn this comic into a short marketing story for a clothing store called Fashion Cottage”\n\nGroup Activity Idea\nSplit into 2 teams:\nTeam 1: Superheroes vs Villain\nTeam 2: Magic + Sports Adventure\n\nVote for Funniest Comic\nVote for Best Storyline",
+        "paragraphs": [
+          "For Arti (Advanced)",
+          "“Turn this comic into a short marketing story for a clothing store called Fashion Cottage”",
+          "Group Activity Idea",
+          "Split into 2 teams:",
+          "Team 1: Superheroes vs Villain",
+          "Team 2: Magic + Sports Adventure",
+          "Vote for Funniest Comic",
+          "Vote for Best Storyline"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 56,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Use Case: Create Your Own Game with AI",
+        "paragraphs": [
+          "Use Case: Create Your Own Game with AI"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "1. Reaction Game\nPrompt: “Create a simple web game in one HTML file where a box appears randomly and I click it to score. Add score and 20-second timer.”\n\n2. Memory Card Game\nPrompt: “Create a memory card matching game in one HTML file with a 4x4 grid. Add move counter and restart button.”\n\n3. Dodge Game\nPrompt: “Create a simple web game in one HTML file where I move a square with arrow keys and avoid falling blocks. Add score and game over.”",
+        "paragraphs": [
+          "1. Reaction Game",
+          "Prompt: “Create a simple web game in one HTML file where a box appears randomly and I click it to score. Add score and 20-second timer.”",
+          "2. Memory Card Game",
+          "Prompt: “Create a memory card matching game in one HTML file with a 4x4 grid. Add move counter and restart button.”",
+          "3. Dodge Game",
+          "Prompt: “Create a simple web game in one HTML file where I move a square with arrow keys and avoid falling blocks. Add score and game over.”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 57,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Use Case: Create Your Own Game with AI",
+        "paragraphs": [
+          "Use Case: Create Your Own Game with AI"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "1. Car Racing Game\nPrompt: “Create a simple car racing web game in one HTML file. I control a car with arrow keys and avoid traffic. Add speed increase and score.”\n\n2. Space Shooter Game\nPrompt: “Create a simple space shooter web game in one HTML file. I control a spaceship, shoot enemies and track score.”\n\n3. Breakout Game\nPrompt: “Create a breakout web game in one HTML file with paddle, ball and bricks. Add score and game over.”",
+        "paragraphs": [
+          "1. Car Racing Game",
+          "Prompt: “Create a simple car racing web game in one HTML file. I control a car with arrow keys and avoid traffic. Add speed increase and score.”",
+          "2. Space Shooter Game",
+          "Prompt: “Create a simple space shooter web game in one HTML file. I control a spaceship, shoot enemies and track score.”",
+          "3. Breakout Game",
+          "Prompt: “Create a breakout web game in one HTML file with paddle, ball and bricks. Add score and game over.”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 58,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "RAG (Grounding the AI with own sources)",
+        "paragraphs": [
+          "RAG (Grounding the AI with own sources)"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "Upload your own sources to Notebooklm.google.com to generate high quality infographics, podcasts, video overviews and slides",
+        "paragraphs": [
+          "Upload your own sources to Notebooklm.google.com to generate high quality infographics, podcasts, video overviews and slides"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 59,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "\nUse Case 4: \nAI for Spreadsheet Creation & Data Analysis",
+        "paragraphs": [
+          "Use Case 4:",
+          "AI for Spreadsheet Creation & Data Analysis"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 60,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Create spreadsheets using AI",
+        "paragraphs": [
+          "Create spreadsheets using AI"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "1. Study Tracker\nPrompt: “Create a simple spreadsheet to track my daily study. Add subject, time, and total study hours.”\n\n2. Game Score Tracker\nPrompt: “Create a spreadsheet to track scores for 5 players. Add total score and show the winner.”\n\n3. Sports Tracker\nPrompt: “Create a badminton practice tracker with date, practice time, and average performance.”\n\n4. Small Business Tracker (Arti angle)\nPrompt: “Create a simple sales tracker for a clothes shop with total sales and profit.”",
+        "paragraphs": [
+          "1. Study Tracker",
+          "Prompt: “Create a simple spreadsheet to track my daily study. Add subject, time, and total study hours.”",
+          "2. Game Score Tracker",
+          "Prompt: “Create a spreadsheet to track scores for 5 players. Add total score and show the winner.”",
+          "3. Sports Tracker",
+          "Prompt: “Create a badminton practice tracker with date, practice time, and average performance.”",
+          "4. Small Business Tracker (Arti angle)",
+          "Prompt: “Create a simple sales tracker for a clothes shop with total sales and profit.”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 61,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Creating a spreadsheet from a simple  idea Step by Step\u000b",
+        "paragraphs": [
+          "Creating a spreadsheet from a simple  idea Step by Step"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "Step 1 – Start Simple\nPrompt: “Create a simple spreadsheet to track my daily study”\n\nStep 2 – AI gives structure\nYou’ll get columns like:\u000bDate | Subject | Time Studied | Homework Done\n\nStep 3 – Improve it\nPrompt: “Add total study time and highlight days where I studied less than 1 hour”\n\nStep 4 – Add Charts (cool part)\nPrompt: “Add a chart to show how my study time is changing over days”\n\nStep 5 – Make it look awesome\nPrompt: “Make this spreadsheet colorful and easy to understand”",
+        "paragraphs": [
+          "Step 1 – Start Simple",
+          "Prompt: “Create a simple spreadsheet to track my daily study”",
+          "Step 2 – AI gives structure",
+          "You’ll get columns like:\u000bDate | Subject | Time Studied | Homework Done",
+          "Step 3 – Improve it",
+          "Prompt: “Add total study time and highlight days where I studied less than 1 hour”",
+          "Step 4 – Add Charts (cool part)",
+          "Prompt: “Add a chart to show how my study time is changing over days”",
+          "Step 5 – Make it look awesome",
+          "Prompt: “Make this spreadsheet colorful and easy to understand”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 62,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Use Case 4: Data Analysis & Smart Decisions",
+        "paragraphs": [
+          "Use Case 4: Data Analysis & Smart Decisions"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "AI can help you:\nUnderstand data quickly\nFind patterns\nMake better decisions",
+        "paragraphs": [
+          "AI can help you:",
+          "Understand data quickly",
+          "Find patterns",
+          "Make better decisions"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 63,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "What AI Can Do With Your Data",
+        "paragraphs": [
+          "What AI Can Do With Your Data"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "1. Study Pattern (Most relatable)\u000b“Analyse my study data and tell me which subject I spend most time on and what I should improve: ___”\n2. Game Performance (Fun tie-in)\u000b“Analyse these game scores and tell who is winning and why: ___”\n3. Sports Improvement (Daksh angle)\u000b“Analyse this practice data and tell how performance is improving: ___”\n4. Simple Trends\u000b“Look at this data and tell me 3 important patterns in simple words: ___”",
+        "paragraphs": [
+          "1. Study Pattern (Most relatable)\u000b“Analyse my study data and tell me which subject I spend most time on and what I should improve: ___”",
+          "2. Game Performance (Fun tie-in)\u000b“Analyse these game scores and tell who is winning and why: ___”",
+          "3. Sports Improvement (Daksh angle)\u000b“Analyse this practice data and tell how performance is improving: ___”",
+          "4. Simple Trends\u000b“Look at this data and tell me 3 important patterns in simple words: ___”"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 64,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Demo: Analyse operational data & identify trends\n",
+        "paragraphs": [
+          "Demo: Analyse operational data & identify trends"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Summarise the key trends from this operational data and suggest 3 actions management should take to improve performance.\n\nCreate a chart-based dashboard (bar chart, line chart, heatmap) \n\nIdentify any patterns in this monthly production data. Explain the trends in simple language.\n\n\n",
+        "paragraphs": [
+          "Summarise the key trends from this operational data and suggest 3 actions management should take to improve performance.",
+          "Create a chart-based dashboard (bar chart, line chart, heatmap)",
+          "Identify any patterns in this monthly production data. Explain the trends in simple language."
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 66,
+    "shapes": [
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Key Trends from the Data\nProduction & Revenue — All four divisions grew steadily through FY 2024, with the sharpest acceleration in Q4. Division A dominates output (607 units, ₹30.1L) while Division C is the smallest but most efficient producer. The revenue trend lines show no major stumbles — healthy, broad-based growth.\nDefect Rate — This is the clearest red flag. Division D's defect rate averages 3.59%, which is more than three times Division C's 1.11%. Importantly, the heatmap reveals that July is the worst month for defects across nearly every division — the same month on-time delivery also collapses. These two patterns almost certainly have a common cause.\nOn-Time Delivery — Division C leads at 95.8% average; Division D trails at just 84.75%. The July dip is visible in every division simultaneously, which rules out a single-division explanation — this is a company-wide operational disruption that repeats annually.\nMachine Utilisation — All divisions improved through the year, but Division C runs at only 64.8% utilisation despite its superior quality numbers. That's untapped capacity that management can exploit without buying new equipment.",
+        "paragraphs": [
+          "Key Trends from the Data",
+          "Production & Revenue — All four divisions grew steadily through FY 2024, with the sharpest acceleration in Q4. Division A dominates output (607 units, ₹30.1L) while Division C is the smallest but most efficient producer. The revenue trend lines show no major stumbles — healthy, broad-based growth.",
+          "Defect Rate — This is the clearest red flag. Division D's defect rate averages 3.59%, which is more than three times Division C's 1.11%. Importantly, the heatmap reveals that July is the worst month for defects across nearly every division — the same month on-time delivery also collapses. These two patterns almost certainly have a common cause.",
+          "On-Time Delivery — Division C leads at 95.8% average; Division D trails at just 84.75%. The July dip is visible in every division simultaneously, which rules out a single-division explanation — this is a company-wide operational disruption that repeats annually.",
+          "Machine Utilisation — All divisions improved through the year, but Division C runs at only 64.8% utilisation despite its superior quality numbers. That's untapped capacity that management can exploit without buying new equipment."
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 67,
+    "shapes": [
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Management Actions to Improve Performance\nAction 01 · Quality\nFix Division D's defect problem\nDivision D averages a 3.59% defect rate — 3× higher than Division C. Conduct a root-cause analysis: inspect tooling, operator training, and incoming material quality. A 1% reduction in defects could unlock significant cost savings and protect customer satisfaction.\n\nAction 02 · Capacity\nUnlock Division C's idle machines\nDivision C runs at only 64.8% machine utilisation — the lowest of all divisions — despite having the best quality and delivery scores. Investigate downtime causes (maintenance, scheduling gaps) and push utilisation toward 75–80% to grow output without capital investment.\n\nAction 03 · Reliability\nInvestigate the July delivery slump\nOn-time delivery drops in July across every single division — not just one. This is a systemic signal, not a local issue. Likely causes include planned maintenance shutdowns, monsoon-related logistics delays, or mid-year shift in workforce. A pre-July readiness plan should be put in place for FY 2025.",
+        "paragraphs": [
+          "Management Actions to Improve Performance",
+          "Action 01 · Quality",
+          "Fix Division D's defect problem",
+          "Division D averages a 3.59% defect rate — 3× higher than Division C. Conduct a root-cause analysis: inspect tooling, operator training, and incoming material quality. A 1% reduction in defects could unlock significant cost savings and protect customer satisfaction.",
+          "Action 02 · Capacity",
+          "Unlock Division C's idle machines",
+          "Division C runs at only 64.8% machine utilisation — the lowest of all divisions — despite having the best quality and delivery scores. Investigate downtime causes (maintenance, scheduling gaps) and push utilisation toward 75–80% to grow output without capital investment.",
+          "Action 03 · Reliability",
+          "Investigate the July delivery slump",
+          "On-time delivery drops in July across every single division — not just one. This is a systemic signal, not a local issue. Likely causes include planned maintenance shutdowns, monsoon-related logistics delays, or mid-year shift in workforce. A pre-July readiness plan should be put in place for FY 2025."
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 68,
+    "shapes": [
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Management Actions to Improve Performance\n\nThe 3 Actions in brief:\n\nFix Division D quality — root-cause the 3.59% defect rate; it's eroding margins and customer trust.\n\nUnlock Division C's capacity — nudge utilisation from 65% to 75–80% for free volume gains.\n\nPre-empt the July slump — it affects every metric, every division, every year — likely a structural operational issue (monsoon logistics, maintenance windows, or staffing).",
+        "paragraphs": [
+          "Management Actions to Improve Performance",
+          "The 3 Actions in brief:",
+          "Fix Division D quality — root-cause the 3.59% defect rate; it's eroding margins and customer trust.",
+          "Unlock Division C's capacity — nudge utilisation from 65% to 75–80% for free volume gains.",
+          "Pre-empt the July slump — it affects every metric, every division, every year — likely a structural operational issue (monsoon logistics, maintenance windows, or staffing)."
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 69,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Best Practices for AI Use, Safety",
+        "paragraphs": [
+          "Best Practices for AI Use, Safety"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Don’t share personal info\nPasswords or Photos which you don’t want to go public\n\n2. Check before you trust\nAI can be wrong sometimes\u000b👉 Always double check\n\n3. Use your brain\nAI helps you:\nWrite\nLearn\ncreate\nBut you decide what is right",
+        "paragraphs": [
+          "Don’t share personal info",
+          "Passwords or Photos which you don’t want to go public",
+          "2. Check before you trust",
+          "AI can be wrong sometimes\u000b👉 Always double check",
+          "3. Use your brain",
+          "AI helps you:",
+          "Write",
+          "Learn",
+          "create",
+          "But you decide what is right"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 70,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Safety Guidelines",
+        "paragraphs": [
+          "Safety Guidelines"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "❌ What NOT to Share\nPersonal info (phone number, school details, passwords)\nPrivate chats (WhatsApp, messages)\nConfidential documents or important files\n\n✔ What is Safe to Share\nMade-up (fictional) examples\nYour own notes\nSchool questions and projects\nGeneral topics (like sports, stories, science)\n\nAsk yourself\n“Would I be okay if this was seen by everyone?”\nIf NO → Don’t share 👍",
+        "paragraphs": [
+          "❌ What NOT to Share",
+          "Personal info (phone number, school details, passwords)",
+          "Private chats (WhatsApp, messages)",
+          "Confidential documents or important files",
+          "✔ What is Safe to Share",
+          "Made-up (fictional) examples",
+          "Your own notes",
+          "School questions and projects",
+          "General topics (like sports, stories, science)",
+          "Ask yourself",
+          "“Would I be okay if this was seen by everyone?”",
+          "If NO → Don’t share 👍"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 71,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "AI Mistakes (Hallucinations)",
+        "paragraphs": [
+          "AI Mistakes (Hallucinations)"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "\nWhat does it mean?\nSometimes AI gives an answer that sounds correct… but is actually wrong or made up\n\nWhy does this happen?\nThe question is not clear\nAI doesn’t have enough information\nIt tries to guess instead of saying “I don’t know”\n\nWhy is this important?\nYou may learn something wrong\nYou may use incorrect info in school work\nIt can confuse you",
+        "paragraphs": [
+          "What does it mean?",
+          "Sometimes AI gives an answer that sounds correct… but is actually wrong or made up",
+          "Why does this happen?",
+          "The question is not clear",
+          "AI doesn’t have enough information",
+          "It tries to guess instead of saying “I don’t know”",
+          "Why is this important?",
+          "You may learn something wrong",
+          "You may use incorrect info in school work",
+          "It can confuse you"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 72,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "How to Avoid AI Hallucinations",
+        "paragraphs": [
+          "How to Avoid AI Hallucinations"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Use Thinking mode for step by step reasoning\n\n2. Double check\nUse: Textbooks, Teachers, Trusted websites\n\n3. Don’t blindly copy\nIf you’re not sure → don’t use it\n",
+        "paragraphs": [
+          "Use Thinking mode for step by step reasoning",
+          "2. Double check",
+          "Use: Textbooks, Teachers, Trusted websites",
+          "3. Don’t blindly copy",
+          "If you’re not sure → don’t use it"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 73,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "AI tools for productivity",
+        "paragraphs": [
+          "AI tools for productivity"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "Prompt writing \nThinking & deep research features of \nchatgpt.com\ngemini.google.com\nperplexity.ai\n\nPresentation creation: \nclaude.ai\nchatgpt.com\ngamma.app \n\nVideo creation:\ninvideo.io\nHeygen.com\ngemini.google.com\n\nSpreadsheet analysis:\nClaude.ai \nChatgpt.com\nJulius.ai\n\n\n\n",
+        "paragraphs": [
+          "Prompt writing",
+          "Thinking & deep research features of",
+          "chatgpt.com",
+          "gemini.google.com",
+          "perplexity.ai",
+          "Presentation creation:",
+          "claude.ai",
+          "chatgpt.com",
+          "gamma.app",
+          "Video creation:",
+          "invideo.io",
+          "Heygen.com",
+          "gemini.google.com",
+          "Spreadsheet analysis:",
+          "Claude.ai",
+          "Chatgpt.com",
+          "Julius.ai"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 74,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Action Plan",
+        "paragraphs": [
+          "Action Plan"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Use Copilot /Chatgpt / Claude /Gemini\nfor writing Email / circular/ SOP using proper prompts\n\nii) Use Chatgpt to summarize complex documents\nuse Chatgpt Deep Research / Perplexity to do research \n\niii) Use Claude / Chatgpt / Gamma to create a presentation\n\niv) Use Claude / Chatgpt / Copilot / Julius.ai to analyse data and create spreadsheets",
+        "paragraphs": [
+          "Use Copilot /Chatgpt / Claude /Gemini",
+          "for writing Email / circular/ SOP using proper prompts",
+          "ii) Use Chatgpt to summarize complex documents",
+          "use Chatgpt Deep Research / Perplexity to do research",
+          "iii) Use Claude / Chatgpt / Gamma to create a presentation",
+          "iv) Use Claude / Chatgpt / Copilot / Julius.ai to analyse data and create spreadsheets"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 75,
+    "shapes": [
+      {
+        "name": "Rectangle 7",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Recap",
+        "paragraphs": [
+          "Recap"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": " Understand why AI matters at the workplace: Done\n\n Use AI to write letters, emails, reports, circulars etc.\nChatgpt.com gemini.google.com, copilot.microsoft.com\n\n Write better prompts for better results: Context is imp.\n\n Use AI for research, to summarize doc & generate ideas\nChatgpt.com (deep research), Gemini, perplexity.ai\n\n Create presentations (and videos) using AI\nClaude.ai Gamma.app, chatgpt.com (Canva), invideo.io\n\n Analyse data and create spreadsheets using AI\nclaude.ai, Chatgpt.com, julius.ai\n\n Use AI safely: protect data and verify accuracy: Done",
+        "paragraphs": [
+          "Understand why AI matters at the workplace: Done",
+          "Use AI to write letters, emails, reports, circulars etc.",
+          "Chatgpt.com gemini.google.com, copilot.microsoft.com",
+          "Write better prompts for better results: Context is imp.",
+          "Use AI for research, to summarize doc & generate ideas",
+          "Chatgpt.com (deep research), Gemini, perplexity.ai",
+          "Create presentations (and videos) using AI",
+          "Claude.ai Gamma.app, chatgpt.com (Canva), invideo.io",
+          "Analyse data and create spreadsheets using AI",
+          "claude.ai, Chatgpt.com, julius.ai",
+          "Use AI safely: protect data and verify accuracy: Done"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 76,
+    "shapes": [
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "For AI tips & tutorials, follow Whatsapp channel \nAI tips by Amey Hegde \n(1400+ followers)\nhttps://whatsapp.com/channel/0029VbAn8rN7YSd8LZq56c3G\n\n\n\n\n\n\n\n\n\n\nConnect with Amey Hegde on Linkedin\nLinkedin https://www.linkedin.com/in/ameyhegde/\nEmail ameyhegde@gmail.com\nWebsite: http://ameyhegde.in",
+        "paragraphs": [
+          "For AI tips & tutorials, follow Whatsapp channel",
+          "AI tips by Amey Hegde",
+          "(1400+ followers)",
+          "https://whatsapp.com/channel/0029VbAn8rN7YSd8LZq56c3G",
+          "Connect with Amey Hegde on Linkedin",
+          "Linkedin https://www.linkedin.com/in/ameyhegde/",
+          "Email ameyhegde@gmail.com",
+          "Website: http://ameyhegde.in"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 77,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Prompt for problem solving\u000btry in chatgpt.com and in perlexity.ai",
+        "paragraphs": [
+          "Prompt for problem solving\u000btry in chatgpt.com and in perlexity.ai"
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": " I'm experiencing the following challenge at work:[DETAILED PROBLEM DESCRIPTION]. The context is: [WORKPLACE CONTEXT]. I've already tried [PREVIOUS SOLUTION ATTEMPTS] without success.\nPlease provide:\n(1) A root cause analysis identifying potential underlying issues\n(2) 3–5 innovative solutions I haven't yet considered, with pros and cons for each\n(3) A recommended implementation plan for the best solution\n(4) Metrics to evaluate whether the solution is working.\n\nPlease structure this as a problem-solving report I can present to my team.\nSource: https://www.linkedin.com/posts/matt-pogla_perplexity-ai-prompts-activity-7330895215106461697-HB8r\n",
+        "paragraphs": [
+          "I'm experiencing the following challenge at work:[DETAILED PROBLEM DESCRIPTION]. The context is: [WORKPLACE CONTEXT]. I've already tried [PREVIOUS SOLUTION ATTEMPTS] without success.",
+          "Please provide:",
+          "(1) A root cause analysis identifying potential underlying issues",
+          "(2) 3–5 innovative solutions I haven't yet considered, with pros and cons for each",
+          "(3) A recommended implementation plan for the best solution",
+          "(4) Metrics to evaluate whether the solution is working.",
+          "Please structure this as a problem-solving report I can present to my team.",
+          "Source: https://www.linkedin.com/posts/matt-pogla_perplexity-ai-prompts-activity-7330895215106461697-HB8r"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 78,
+    "shapes": [
+      {
+        "name": "Rectangle 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "Name\u000bDesignation & Dept.\u000b\u000b\u000bWhat did you like in the session? \u000b\u000bWhat did you Learn?\u000b\u000bHow are you Feeling?",
+        "paragraphs": [
+          "Name\u000bDesignation & Dept.\u000b\u000b\u000bWhat did you like in the session? \u000b\u000bWhat did you Learn?\u000b\u000bHow are you Feeling?"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 79,
+    "shapes": [
+      {
+        "name": "Rectangle 3",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Whatsapp your name & organization to Amey +919096938269",
+        "paragraphs": [
+          "Whatsapp your name & organization to Amey +919096938269"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "WIN - Whatsapp Inspiration \n",
+        "paragraphs": [
+          "WIN - Whatsapp Inspiration"
+        ]
+      },
+      {
+        "name": "Rectangle 8",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Sample messages",
+        "paragraphs": [
+          "Sample messages"
+        ]
+      },
+      {
+        "name": "Rectangle 4",
+        "type": "AUTO_SHAPE (1)",
+        "text": "\n1000+ people from over 10 countries receive inspirational messages & updates from Amey",
+        "paragraphs": [
+          "1000+ people from over 10 countries receive inspirational messages & updates from Amey"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 80,
+    "shapes": [
+      {
+        "name": "Rectangle 3",
+        "type": "AUTO_SHAPE (1)",
+        "text": "A Gift: My free inspirational ebooks\n\nhttp://ameyhegde.in/ebook.html",
+        "paragraphs": [
+          "A Gift: My free inspirational ebooks",
+          "http://ameyhegde.in/ebook.html"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 81,
+    "shapes": [
+      {
+        "name": "Slide Number Placeholder 3",
+        "type": "PLACEHOLDER (14)",
+        "text": "81",
+        "paragraphs": [
+          "81"
+        ]
+      },
+      {
+        "name": "Rectangle 5",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Partial List of Clients",
+        "paragraphs": [
+          "Partial List of Clients"
+        ]
+      },
+      {
+        "name": "Rectangle 9",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Contact Details:\n \nameyhegde@gmail.com   +91-9096938269    http://ameyhegde.in",
+        "paragraphs": [
+          "Contact Details:",
+          "ameyhegde@gmail.com   +91-9096938269    http://ameyhegde.in"
+        ]
+      }
+    ]
+  }
+]

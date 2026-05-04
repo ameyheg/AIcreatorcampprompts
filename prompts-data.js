@@ -1,0 +1,239 @@
+const SECTIONS = [
+  {
+    id: "where-ai-helps",
+    title: "Where Can AI Help You?",
+    icon: "🚀",
+    cssClass: "sec-prompts",
+    description: "Start here — tell AI about yourself and discover how it can help",
+    prompts: [
+      { title: "Discover How AI Can Help You Write", emoji: "🎯", dept: "General", deptClass: "dept-general",
+        text: "I am a <_ year old girl / boy from Goa / Bangalore>\nWhere can AI help me in writing?\nKeep it short.",
+        note: "Replace with your age, gender and city — e.g. '12 year old girl from Goa'" }
+    ]
+  },
+  {
+    id: "writing",
+    title: "AI for Writing",
+    icon: "✍️",
+    cssClass: "sec-writing",
+    description: "Write stories, essays, poems and more with AI help",
+    prompts: [
+      { title: "Get Fun Writing Ideas", emoji: "💡", dept: "Creative", deptClass: "dept-creative",
+        text: "Give me 5 fun ideas to write about for a 12-year-old girl who likes ___.",
+        note: "Fill in your interest — e.g. 'animals', 'space', 'cooking', 'football'" },
+      { title: "Write an Adventure Story", emoji: "📖", dept: "Creative", deptClass: "dept-creative",
+        text: "Write a short adventure story about a girl from Goa who discovers a secret power. Keep it exciting and age-appropriate.",
+        note: "Change the character to match yourself — your city, your interests!" },
+      { title: "Help with School Work", emoji: "📝", dept: "School", deptClass: "dept-school",
+        text: "Help me write a neat 150-word answer on ___ for class 7. Keep it simple and easy to understand.",
+        note: "Replace ___ with your topic — e.g. 'photosynthesis', 'the water cycle', 'Indian freedom fighters'" },
+      { title: "Fix My Grammar", emoji: "✏️", dept: "School", deptClass: "dept-school",
+        text: "Check this paragraph and correct mistakes. Also explain what I did wrong in easy words: ___",
+        note: "Paste your paragraph in place of ___" },
+      { title: "Write a Poem", emoji: "🎭", dept: "Creative", deptClass: "dept-creative",
+        text: "Write a poem about the beach in Goa with simple words and nice rhymes.",
+        note: "Change the topic to anything you like — your school, your pet, your favourite place" },
+      { title: "Improve My Writing", emoji: "⬆️", dept: "School", deptClass: "dept-school",
+        text: "Make this paragraph more interesting and better, but keep my style:\n___",
+        note: "Paste your paragraph and AI will make it better while keeping YOUR voice" },
+      { title: "Learn New Words", emoji: "📚", dept: "School", deptClass: "dept-school",
+        text: "Explain the word ___ with meaning, example, and how I can use it in my writing.",
+        note: "Replace ___ with any word you want to learn" }
+    ]
+  },
+  {
+    id: "summarize",
+    title: "Research & Summarizing",
+    icon: "📚",
+    cssClass: "sec-summarize",
+    description: "Upload a PDF or paste text and let AI help you understand it",
+    prompts: [
+      { title: "Quick Summary (School Chapters)", emoji: "📌", dept: "School", deptClass: "dept-school",
+        text: "Summarise this lesson in 5 simple points that a 12-year-old can understand: ___",
+        note: "Paste any long chapter or lesson text — AI will make it simple!" },
+      { title: "Homework Help (Long Answers)", emoji: "📋", dept: "School", deptClass: "dept-school",
+        text: "Read this paragraph and give me the most important points for my answer: ___",
+        note: "Great for extracting key points from textbook paragraphs" },
+      { title: "Compare Topics", emoji: "⚖️", dept: "School", deptClass: "dept-school",
+        text: "Explain the difference between ___ and ___ in simple words with examples.",
+        note: "e.g. 'mitosis and meiosis', 'simile and metaphor', 'weather and climate'" },
+      { title: "Simplify Difficult Text", emoji: "🔓", dept: "School", deptClass: "dept-school",
+        text: "Explain this in very easy language like you are teaching a student: ___",
+        note: "Paste any complicated text and AI will simplify it for you" },
+      { title: "Make Revision Notes", emoji: "📒", dept: "School", deptClass: "dept-school",
+        text: "Turn this chapter into short notes I can revise before exams: ___",
+        note: "Perfect for last-minute revision — paste your chapter content" }
+    ]
+  },
+  {
+    id: "ideas",
+    title: "Compare Options & Generate Ideas",
+    icon: "💡",
+    cssClass: "sec-ideas",
+    description: "Use AI to compare, brainstorm and solve problems",
+    prompts: [
+      { title: "Compare Options", emoji: "🔄", dept: "School", deptClass: "dept-school",
+        text: "Compare ___ and ___ and tell me the differences, pros, and which is better for a student.",
+        note: "Try: 'online learning vs classroom learning' or 'football vs badminton'" },
+      { title: "Generate Fun Ideas", emoji: "🌟", dept: "Creative", deptClass: "dept-creative",
+        text: "Give me 10 fun ideas for ___ suitable for a 12-year-old.",
+        note: "Try: 'a school project', 'ways to make class more fun', 'a story set in Goa'" },
+      { title: "Problem Solving", emoji: "🧩", dept: "General", deptClass: "dept-general",
+        text: "Give me simple ideas to solve this problem: ___",
+        note: "Try: 'How to manage homework better' or 'How to improve my writing skills'" }
+    ]
+  },
+  {
+    id: "deep-research",
+    title: "Deep Research Using AI",
+    icon: "🔬",
+    cssClass: "sec-research",
+    description: "Go deeper with AI — find latest info and turn it into action",
+    prompts: [
+      { title: "Latest Findings (Simple Summary)", emoji: "📰", dept: "General", deptClass: "dept-general",
+        text: "Summarise the latest information about ___ in 5–7 simple points that a student can understand.",
+        note: "Try: 'latest trends in AI' or 'new discoveries in space science'" },
+      { title: "Compare Information (Similarities & Differences)", emoji: "🔄", dept: "General", deptClass: "dept-general",
+        text: "Compare different ideas about ___ and tell me where they are similar and where they are different in simple words.",
+        note: "Try: 'online learning and classroom learning' or 'two science topics'" },
+      { title: "Turn Learning into Action", emoji: "🎯", dept: "General", deptClass: "dept-general",
+        text: "Turn this information about ___ into simple steps I can follow in real life or school.",
+        note: "Try: 'tips on time management into steps I can follow daily' or 'study techniques into a daily routine'" }
+    ]
+  },
+  {
+    id: "presentations",
+    title: "AI for Presentations",
+    icon: "📽️",
+    cssClass: "sec-presentations",
+    description: "Create slide outlines, then use Gamma.app, Claude.ai or Canva",
+    prompts: [
+      { title: "Create Slides from a Topic", emoji: "🎨", dept: "School", deptClass: "dept-school",
+        text: "Create a 5-slide presentation on ___ for a school student. For each slide give a title and 3 simple bullet points.",
+        note: "Try: 'road safety' or 'saving the environment'. Copy output into Gamma.app or Canva" },
+      { title: "Turn Text into Slides", emoji: "📝", dept: "School", deptClass: "dept-school",
+        text: "Convert this paragraph into 4–5 slides. Give each slide a title and 3 simple points: ___",
+        note: "Great for turning textbook answers into presentations!" },
+      { title: "School Topic Presentation", emoji: "🏫", dept: "School", deptClass: "dept-school",
+        text: "Create a 5-slide presentation on ___ with simple language suitable for class 6–8 students.",
+        note: "Try: 'Healthy habits for students' or 'My favorite festival'" }
+    ]
+  },
+  {
+    id: "video",
+    title: "Making Videos, Images & Comics",
+    icon: "🎬",
+    cssClass: "sec-video",
+    description: "Create videos, songs, images and comics using AI",
+    prompts: [
+      { title: "Create a Fun Video Script", emoji: "🎥", dept: "Creative", deptClass: "dept-creative",
+        text: "Create a 1-minute fun video script where 5 kids in Goa discover a secret power. Include scenes, dialogues, and a twist ending.",
+        note: "Use with invideo.io or gemini.google.com (Veo 3.1) to turn the script into a real video!" },
+      { title: "Create Your Own Comic Book", emoji: "🦸", dept: "Creative", deptClass: "dept-creative",
+        text: "Create a 6-panel comic book story for kids. Each character should have a unique power based on their interests.\nInclude dialogues, a villain, and a fun twist ending.",
+        note: "Use ChatGPT or Gemini to generate images for each panel" },
+      { title: "Turn Story into Comic Panels", emoji: "🖼️", dept: "Creative", deptClass: "dept-creative",
+        text: "Convert this story into comic panels with scene descriptions and dialogues for each panel:\n___",
+        note: "Paste any story and AI will break it into visual comic panels" },
+      { title: "Create a Song", emoji: "🎵", dept: "Creative", deptClass: "dept-creative",
+        text: "Create energetic background music for a fun kids adventure video.",
+        note: "Use with Suno.com to generate actual music from this prompt!" },
+      { title: "Generate an Image", emoji: "🎨", dept: "Creative", deptClass: "dept-creative",
+        text: "Create an image of ___. Make it colorful and fun, suitable for kids.",
+        note: "Use ChatGPT or Gemini to generate images. Try describing your favorite character or scene!" }
+    ]
+  },
+  {
+    id: "games",
+    title: "Create Your Own Game with AI",
+    icon: "🎮",
+    cssClass: "sec-games",
+    description: "Ask AI to build fun web games you can play in your browser",
+    prompts: [
+      { title: "Reaction Game", emoji: "⚡", dept: "Games", deptClass: "dept-games",
+        text: "Create a simple web game in one HTML file where a box appears randomly and I click it to score. Add score and 20-second timer.",
+        note: "Use Claude.ai to create this — it will give you a playable game instantly!" },
+      { title: "Memory Card Game", emoji: "🃏", dept: "Games", deptClass: "dept-games",
+        text: "Create a memory card matching game in one HTML file with a 4x4 grid. Add move counter and restart button.",
+        note: "A classic matching game — try to beat your own score!" },
+      { title: "Dodge Game", emoji: "🏃", dept: "Games", deptClass: "dept-games",
+        text: "Create a simple web game in one HTML file where I move a square with arrow keys and avoid falling blocks. Add score and game over.",
+        note: "Use arrow keys to dodge! See how long you can survive" },
+      { title: "Car Racing Game", emoji: "🏎️", dept: "Games", deptClass: "dept-games",
+        text: "Create a simple car racing web game in one HTML file. I control a car with arrow keys and avoid traffic. Add speed increase and score.",
+        note: "Gets faster as you go — how far can you drive?" },
+      { title: "Space Shooter Game", emoji: "🚀", dept: "Games", deptClass: "dept-games",
+        text: "Create a simple space shooter web game in one HTML file. I control a spaceship, shoot enemies and track score.",
+        note: "Blast your way through space!" },
+      { title: "Breakout Game", emoji: "🧱", dept: "Games", deptClass: "dept-games",
+        text: "Create a breakout web game in one HTML file with paddle, ball and bricks. Add score and game over.",
+        note: "The classic brick-breaker game!" }
+    ]
+  },
+  {
+    id: "spreadsheets",
+    title: "Creating Spreadsheets Using AI",
+    icon: "📊",
+    cssClass: "sec-spreadsheets",
+    description: "Ask AI to create useful trackers and spreadsheets for you",
+    prompts: [
+      { title: "Study Tracker", emoji: "📖", dept: "School", deptClass: "dept-school",
+        text: "Create a simple spreadsheet to track my daily study. Add subject, time, and total study hours.",
+        note: "Track your study time and see which subjects need more attention" },
+      { title: "Game Score Tracker", emoji: "🎯", dept: "Games", deptClass: "dept-games",
+        text: "Create a spreadsheet to track scores for 5 players. Add total score and show the winner.",
+        note: "Perfect for tracking board game or video game scores with friends!" },
+      { title: "Sports Practice Tracker", emoji: "🏸", dept: "Sports", deptClass: "dept-sports",
+        text: "Create a badminton practice tracker with date, practice time, and average performance.",
+        note: "Change 'badminton' to any sport you play!" },
+      { title: "Small Business Tracker", emoji: "💰", dept: "Business", deptClass: "dept-business",
+        text: "Create a simple sales tracker for a clothes shop with total sales and profit.",
+        note: "Great for tracking a school market day or small business idea!" }
+    ]
+  },
+  {
+    id: "iterative-spreadsheet",
+    title: "Build a Spreadsheet Step by Step",
+    icon: "🔄",
+    cssClass: "sec-spreadsheets",
+    description: "Learn how to improve a spreadsheet with follow-up prompts",
+    prompts: [
+      { title: "Step 1 — Start Simple", emoji: "1️⃣", dept: "School", deptClass: "dept-school",
+        text: "Create a simple spreadsheet to track my daily study.",
+        note: "AI will create a basic structure with columns like Date, Subject, Time Studied" },
+      { title: "Step 2 — AI Gives Structure", emoji: "2️⃣", dept: "School", deptClass: "dept-school",
+        text: "You'll get columns like: Date | Subject | Time Studied | Homework Done",
+        note: "This is what AI creates — now let's improve it!" },
+      { title: "Step 3 — Improve It", emoji: "3️⃣", dept: "School", deptClass: "dept-school",
+        text: "Add total study time and highlight days where I studied less than 1 hour.",
+        note: "AI adds formulas and conditional formatting automatically" },
+      { title: "Step 4 — Add Charts", emoji: "4️⃣", dept: "School", deptClass: "dept-school",
+        text: "Add a chart to show how my study time is changing over days.",
+        note: "Charts make your data visual and easy to understand" },
+      { title: "Step 5 — Make It Look Awesome", emoji: "5️⃣", dept: "School", deptClass: "dept-school",
+        text: "Make this spreadsheet colorful and easy to understand.",
+        note: "AI will add colors, borders and formatting to make it look professional" }
+    ]
+  },
+  {
+    id: "data-analysis",
+    title: "AI for Data Analysis",
+    icon: "📈",
+    cssClass: "sec-data",
+    description: "Give AI your data and get insights, patterns and advice",
+    prompts: [
+      { title: "Analyse Your Study Patterns", emoji: "📊", dept: "School", deptClass: "dept-school",
+        text: "Analyse my study data and tell me which subject I spend most time on and what I should improve: ___",
+        note: "Paste your study tracker data to get personalised study advice" },
+      { title: "Analyse Game Scores", emoji: "🎮", dept: "Games", deptClass: "dept-games",
+        text: "Analyse these game scores and tell who is winning and why: ___",
+        note: "Paste scores from any game and AI will tell you who's the champion!" },
+      { title: "Sports Performance Analysis", emoji: "🏆", dept: "Sports", deptClass: "dept-sports",
+        text: "Analyse this practice data and tell how performance is improving: ___",
+        note: "Track your improvement over time in any sport" },
+      { title: "Find Simple Trends", emoji: "🔍", dept: "General", deptClass: "dept-general",
+        text: "Look at this data and tell me 3 important patterns in simple words: ___",
+        note: "Works with any data — paste a table and AI will find the trends" }
+    ]
+  }
+];
