@@ -235,5 +235,38 @@ const SECTIONS = [
         text: "Look at this data and tell me 3 important patterns in simple words: ___",
         note: "Works with any data — paste a table and AI will find the trends" }
     ]
+  },
+  {
+    id: "story-to-video",
+    title: "Convert Story → Scenes (Video Creation)",
+    icon: "🎬",
+    cssClass: "sec-video",
+    description: "Plug-and-play prompts to turn stories into videos. Master Structure: Character + Action + Place + Emotion + Style",
+    prompts: [
+      { title: "Master Prompt Structure", emoji: "🧠", dept: "Creative", deptClass: "dept-creative",
+        text: "A brave boy running through a jungle, scared, cinematic style",
+        note: "Formula: Character + Action + Place + Emotion + Style" },
+      { title: "Scene 1 (Beginning)", emoji: "🎬", dept: "Creative", deptClass: "dept-creative",
+        text: "Create a short video scene of [character] in [place].\nThe character is [doing something].\nMood is [happy/excited/peaceful].\nStyle: cinematic / cartoon / realistic.",
+        note: "Example: young girl in a magical forest. She is exploring... Mood is happy. Style: cinematic." },
+      { title: "Scene 2 (Problem / Conflict)", emoji: "⚠️", dept: "Creative", deptClass: "dept-creative",
+        text: "Create a dramatic video scene where [problem happens].\nThe character [reaction/action].\nMood is tense or scary.\nStyle: cinematic.",
+        note: "Example: monster appears in the forest. Girl gets scared and runs. Mood is tense." },
+      { title: "Scene 3 (Ending / Solution)", emoji: "🎉", dept: "Creative", deptClass: "dept-creative",
+        text: "Create a final video scene where [problem is solved].\nThe character is [action].\nMood is happy and victorious.\nStyle: cinematic.",
+        note: "Example: girl finds magical light that defeats monster. She smiles. Mood is victorious." },
+      { title: "Add Voice / Narration", emoji: "🔊", dept: "Creative", deptClass: "dept-creative",
+        text: "Add a voiceover: \"Once upon a time...\"",
+        note: "Or better: Let kids record their own voice for a big engagement boost!" },
+      { title: "Cartoon Version", emoji: "🎨", dept: "Creative", deptClass: "dept-creative",
+        text: "Create a cartoon-style video of [same scene description].\nBright colors, animated style, fun expressions.",
+        note: "If kids want a fun animated style instead of realistic." },
+      { title: "Super Simple Version (Fast)", emoji: "⚡", dept: "Creative", deptClass: "dept-creative",
+        text: "A [character] in [place] doing [action], cinematic video",
+        note: "Example: A superhero boy in a city fighting a robot, cinematic video" },
+      { title: "Pro Tip: Iterate & Improve", emoji: "💡", dept: "Creative", deptClass: "dept-creative",
+        text: "What should we improve?\n- Add emotion\n- Add detail\n- Change style",
+        note: "Teach iteration! Clarity beats complexity. Simple prompts give better results." }
+    ]
   }
 ];
